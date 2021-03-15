@@ -1,0 +1,19 @@
+User-agent: *
+Allow: *
+Disallow: /admin/
+Disallow: /*?*
+Sitemap: sss/sitemap.xml
+
+User-agent: GoogleBot
+Allow: *
+Disallow: /admin/
+Disallow: /*?*
+Sitemap: sss/sitemap.xml
+
+
+User-agent: Yandex
+Allow: *
+Disallow: /admin/
+Disallow: /*?*
+Sitemap: sss/sitemap.xml
+Host:
